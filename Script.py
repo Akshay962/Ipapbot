@@ -226,4 +226,9 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 ⏰Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code></b>"""
 
-    
+ADDG = """<b>Hay {},
+I'm ⚡️ Powerful Auto-Filter Bot...
+😎 You Can Use Me As A Auto-filter in Your Group ....
+Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...😎
+⚠️ More Help Check Help Button Below
+©️Mantained Bʏ  @AkshayChand10</b>"""    
